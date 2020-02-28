@@ -4,9 +4,9 @@
   dates: 2006-2011
   qualification: B.Sc. Applied Informatics
   quote: >
-    Short institution or course description (optional)
+        School of information sciences, Department of Applied Informatics
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    The degree of Applied Informatics includes advanced courses in Management Science, Economics, Finance, Business Administration, Quantitative Methods, as well as Computer and Internet Law. Emphasis is given on applications related to the analysis, design, development and management of systems for processing, storing, retrieving and transmitting information in the fields of Business Administration, Economics and Finance 
 
 # Education Template
 - layout: left
@@ -14,6 +14,6 @@
   dates: 2012-2014
   qualification: M.Sc. Informatics - Digital Media
   quote: >
-    Short institution or course description (optional)
+    School of Informatics, Department of Computer Science 
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+   The MSc of Informatics - Digital Media covers a range of advanced topics related to digital media including signal processing, computer vision, graphics, pattern recognition/machine learning and computational intelligence, including associated enabling technologies (e.g., language technologies, deep learning, computer animation, brain computer interfaces).
