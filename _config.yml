@@ -46,16 +46,10 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Paschalina Medentzidou and I am a machine learning engineer. I am currently working for the Information Technologies Institute. I enjoy extracting meaningful information from raw multimedia data and continuously learning new technologies on how to do that. Working on security related projects I implement methods for object detection and motion based multiple object tracking using Deep Neural Networks. I get exposed to a series of machine learning frameworks (Caffe, Keras, Torch),  programming languages (Python, Matlab, Lua), and  technologies (MongoDB , Docker , Git Version Control). The fact that I am working on technologies that can make people's lives better makes each day at work count for me!
+  Hi, my name is Paschalina Medentzidou and I am a machine learning engineer. I am currently working for the Information Technologies Institute. I enjoy extracting meaningful information from raw multimedia data and continuously learning new technologies on how to do that. 
   
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
-
+  Working on security related projects I implement methods for object detection and motion based multiple object tracking using Deep Neural Networks. I get exposed to a series of machine learning frameworks (<mark>Caffe</mark>, <mark>Keras</mark>, <mark>Torch</mark>),  programming languages (<mark>Python</mark>, <mark>Matlab</mark>, <mark>Lua</mark>), and  technologies (<mark>MongoDB</mark> , <mark>Docker</mark> , <mark>Git Version Control</mark>). The fact that I am working on technologies that can make people's lives better makes each day at work count for me!
+  
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
