@@ -1,6 +1,5 @@
 # Site
-repository: linamede/linamede.github.io
-# Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
@@ -29,10 +28,10 @@ flickr_username: linamede
 #orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-#additional_links:
-#- title: Link name
-#  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#  url: Link url (eg. https://google.com)
+additional_links:
+- title: Link name
+  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+  url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -45,11 +44,15 @@ flickr_username: linamede
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/profile.jpg
+about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
+  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-
-Hi, my name is Paschalina Medentzidou and I am a machine learning engineer. I am currently working for the Information Technologies Institute. I enjoy extracting meaningful information from raw multimedia data and continuously learning new technologies on how to do that. Working on security related projects I implement methods for object detection and motion based multiple object tracking using Deep Neural Networks. I get exposed to a series of machine learning frameworks (Caffe, Keras, Torch),  programming languages (Python, Matlab, Lua), and  technologies (MongoDB , Docker , Git Version Control). The fact that I am working on technologies that can make people's lives better makes each day at work count for me!
+  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+    - Lists
+    - Tables
+    - <a href="google.com">Links</a>
+    - Images
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
