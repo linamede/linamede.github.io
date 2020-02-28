@@ -1,10 +1,38 @@
+
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Information Technologies Institute of CERTH
+  link: https://www.iti.gr/iti/index.html
+  job_title: Machine Learning Research Assistant
+  dates: July 2015 - January 2018
+  quote: >
+    CERTH/ITI is currently one of the leading Institutions of Greece and is conducting basic and applied research in established and emerging areas in the fields of Informatics, Telematics and Telecommunications. It is one of the largest IT research centers in Northern Greece with well-organized facilities, highly qualified personnel and a reputation as a top-level research IT institute in Greece and abroad, with long experience in numerous European and national Research and Development (R&D) projects.  
+  description: | # this will include new lines to allow paragraphs
+    Worked on security related EU projects (LASIE-FP7,SURVANT-H2020)
+    Implemented methods for real time object detection and motion based multiple object tracking using Deep Neural Networks applied on forensic multimedia data
+    I used a series of machine learning frameworks (Caffe, Keras, Torch),Computer Vision library (OpenCV),programming languages (Python, Matlab, Lua), and technologies (MongoDB , Docker , Git VersionControl)
+
+
+# Experience template
+- layout: left
+  company: Artificial Intelligence & Information Analysis Lab, AUTh
+  link: http://www.aiia.csd.auth.gr/
+  job_title: Research Assistant / Software Developer
+  dates: December 2014 - March 2015
   quote: >
    Short description of the company (optional)
+   AIIA Lab has been an active research group working for more than fifteen years in digital media and related areas. The group has strong cooperation with other Universities, research centers and industrial partners in the area of its interests through projects mainly funded by the European Union. AIIA LAb has undertaken around 35 international and 14 national research projects.   
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Worked on ATLAS project (Advanced Tourism Planning System)
+    Proposed a novel technique to detect shot boundaries in videos and extract summaries automatically
+    Collaborated constructively with other members of the team to accomplish integration of deliveredsystem, got familiar with working under pressure, presenting into technical meetings and writing deliverables
+
+
+
+
+
+
+
+
+
+
