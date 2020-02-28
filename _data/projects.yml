@@ -1,9 +1,43 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: VRTogether
+  link: https://vrtogether.eu/
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    Short overview of the project (optional)
+    Virtual Reality Together
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    VR Together is a media project funded by the European Commission as part of the H2020 program, under the grant agreement 762111. It will last for 3 years (2017-2020) and operate with a budget of 3.9M€.
+    We aim at radically improving the experience by innovating in how media formats are used (i.e., how audio, video and graphics are captured, delivered and rendered at users’ homes) demonstrating a significant improvement of the feeling of being there together and the photorealistic quality of the content.
+
+
+# Project template
+- layout: top-middle
+  name: SURVANT
+  link: https://www.survant-project.eu/
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    Surveillance video archives investigation assistant
+  description: | # this will include new lines to allow paragraphs
+    The SURVANT project aims to deliver an effective and efficient innovative system able to collect, analyse videos from heterogeneous repositories of surveillance videos and extract inter/intra-camera video analytics, supporting investigators in discovering suspicious criminal events within a huge amount of video tracks.
+    
+    
+    # Project template
+- layout: top-middle
+  name: LASIE
+  link: http://www.lasie-project.eu/
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    Large Scale Information Exploitation of Forensic Data
+  description: | # this will include new lines to allow paragraphs
+    The LASIE project aims to design and implement an open and expandable framework that will significantly increase the efficiency of current investigation practices, by providing an automated initial analysis of the vast amounts of heterogeneous forensic data that analysts have to cope with. The framework will be able to handle forensic data that have been acquired from a variety of different sources including CCTV surveillance content, confiscated desktops and hard disks, mobile devices, Internet, social networks, handwritten and calligraphic documents.
+    
+    
+    # Project template
+- layout: top-middle
+  name: ATLAS
+  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    Advanced Tourism Planning System
+  description: | # this will include new lines to allow paragraphs
+    ATLAS seeks to create a step change in tourism services by advancing the state-of-the-art of the algorithms for fast geo‐aware social media tagging and annotation and geo‐aware multimedia information retrieval and recommendation. In particular, ATLAS aims at an innovative breakthrough in combining the just mentioned technologies for practical tourism services at a quality level that meets the expectations of the users.
