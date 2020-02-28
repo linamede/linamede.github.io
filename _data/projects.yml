@@ -19,9 +19,8 @@
     Surveillance video archives investigation assistant
   description: | # this will include new lines to allow paragraphs
     The SURVANT project aims to deliver an effective and efficient innovative system able to collect, analyse videos from heterogeneous repositories of surveillance videos and extract inter/intra-camera video analytics, supporting investigators in discovering suspicious criminal events within a huge amount of video tracks.
+        
     
-    
-    # Project template
 - layout: top-middle
   name: LASIE
   link: http://www.lasie-project.eu/
@@ -32,7 +31,7 @@
     The LASIE project aims to design and implement an open and expandable framework that will significantly increase the efficiency of current investigation practices, by providing an automated initial analysis of the vast amounts of heterogeneous forensic data that analysts have to cope with. The framework will be able to handle forensic data that have been acquired from a variety of different sources including CCTV surveillance content, confiscated desktops and hard disks, mobile devices, Internet, social networks, handwritten and calligraphic documents.
     
     
-    # Project template
+  
 - layout: top-middle
   name: ATLAS
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
