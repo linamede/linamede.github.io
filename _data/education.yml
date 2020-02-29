@@ -9,8 +9,7 @@
     School of Informatics, Department of Computer Science 
   description: | # this will include new lines to allow paragraphs
    The MSc of Informatics - Digital Media covers a range of advanced topics related to digital media including signal processing, computer vision, graphics, pattern recognition/machine learning and computational intelligence, including associated enabling technologies (e.g., language technologies, deep learning, computer animation, brain computer interfaces).
-   
-   # Education Template
+  
 - layout: left
   name: University of Macedonia
   dates: 2006-2011
