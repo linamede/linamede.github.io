@@ -1,5 +1,20 @@
 # Project template
 - layout: top-middle
+  name: Hyper360
+  link: https://www.hyper360.eu/
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    Enriching 360 media with 3D storytelling and personalization elements
+  description: | # this will include new lines to allow paragraphs
+   The end-goal of Hyper360 is to develop an enriched 360o media production toolset capable of delivering compelling personalized and interactive viewing experiences. 
+   This toolset will enable content distributors to deliver these media through broadband (OTT) to a variety of platforms. 
+   To this intend, existing work and technologies among the consortium members (360o video – DRK/FOKUS, personalization engine – FOKUS/CERTH, 3D capture – CERTH) 
+   will be adapted and extended by their respective IP owners while being evaluated for integration (ENG), with expertise in the fields of image processing (FOKUS/CERTH)
+   and video quality analysis (JRS) utilized to design and create the required technological components to complete the proposed production solution, namely the 360o/3D fusion and emplacement technology (CERTH) and the online produced content quality analysis (JRS).
+
+
+# Project template
+- layout: top-middle
   name: VRTogether
   link: https://vrtogether.eu/
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
