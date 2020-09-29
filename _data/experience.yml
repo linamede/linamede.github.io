@@ -4,6 +4,18 @@
   company: Information Technologies Institute of CERTH
   link: https://www.iti.gr/iti/index.html
   job_title: Machine Learning Research Assistant
+  dates: December 2019 - September 2020
+  quote: >
+    CERTH/ITI is currently one of the leading Institutions of Greece and is conducting basic and applied research in established and emerging areas in the fields of Informatics, Telematics and Telecommunications. It is one of the largest IT research centers in Northern Greece with well-organized facilities, highly qualified personnel and a reputation as a top-level research IT institute in Greece and abroad, with long experience in numerous European and national Research and Development (R&D) projects.  
+  description: | # this will include new lines to allow paragraphs
+    Worked on EU Research Grant proposal preparation, EU project management, Market analysis
+
+
+# Experience template
+- layout: left
+  company: Information Technologies Institute of CERTH
+  link: https://www.iti.gr/iti/index.html
+  job_title: Machine Learning Research Assistant
   dates: July 2015 - January 2018
   quote: >
     CERTH/ITI is currently one of the leading Institutions of Greece and is conducting basic and applied research in established and emerging areas in the fields of Informatics, Telematics and Telecommunications. It is one of the largest IT research centers in Northern Greece with well-organized facilities, highly qualified personnel and a reputation as a top-level research IT institute in Greece and abroad, with long experience in numerous European and national Research and Development (R&D) projects.  
